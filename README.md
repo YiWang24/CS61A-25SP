@@ -33,7 +33,7 @@ The repository includes various assignments, projects, and exercises:
 ### Installation:
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/cs61a-25s.git
+   git clone https://github.com/YiWang24/CS61A-25SP.git
    cd cs61a
 2. **Set up a virtual environment (optional but recommended):**:
     ```sh
